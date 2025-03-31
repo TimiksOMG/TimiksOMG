@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @TimiksOMG
-- 👀 I’m interested in unity
-- 🌱 I’m currently learning minecraft animation
-- 💞️ I’m looking to collaborate on SECRET! 
-- 📫 How to reach me SECRET! 
+Добро пожаловать! Мне 14 и я русский разработчик в unity, arduino, сайтах и многом другом
+Также я ютубер, вот мой канал - https://www.youtube.com/channel/UCHjM96j4ng9fm7aCLM0qNQw
 
-<!---
-TimiksOMG/TimiksOMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ссылки:
+https://www.donationalerts.com/r/timiksomg
+https://t.me/+jIYMbZTacBwwZGUy
+
+Может потом что нибудь добавлю
